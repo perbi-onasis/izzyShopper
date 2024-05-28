@@ -205,6 +205,13 @@ li.hr span {
   /* background-color: #c0c0c0; */
 }
 
+.login-main{
+  height: 80vh;
+}
+.login-main .container .row{
+  height: 100vh;
+}
+
 .iti .iti--allow-dropdown {
   width: 100%;
 }

@@ -216,6 +216,21 @@ li.hr span {
   width: 100%;
 }
 
+.otp-form-group{
+  display: flex;  
+  gap: 12px;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.otp-form-group .otp_input_box{
+  width: 6rem;
+  height: 6rem;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 700;
+}
+
 /* 
 <div class="form-group row">
   <label for="gender">Select your gender</label>

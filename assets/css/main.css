@@ -201,7 +201,7 @@ li.hr span {
   background-size: cover;
 }
 
-.register-body{
+.register-body, .login-body{
   background-color: #F8F9FB;
 }
 

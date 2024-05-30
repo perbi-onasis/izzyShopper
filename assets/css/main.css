@@ -201,9 +201,16 @@ li.hr span {
   background-size: cover;
 }
 
-.register-main div div{
-  /* background-color: #c0c0c0; */
+.register-body{
+  background-color: #F8F9FB;
 }
+
+.register-body .register-main{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
 
 .login-main{
   height: 80vh;
@@ -257,7 +264,7 @@ li.hr span {
   height: 60px;
   border: 1px solid #ececec;
   border-radius: 10px;
-  font-size: 16px;
+  font-size: 1.3rem;
   font-weight: 500;
   /* padding: 20px 40%; */
   padding-top: 17px;
@@ -1766,6 +1773,10 @@ label {
   background: transparent;
 }
 
+.form-group input{
+  font-size: 1.1rem;
+}
+
 .comment-form {
   padding-top: 45px;
   margin-bottom: 20px;
@@ -1816,6 +1827,10 @@ label {
   font-weight: 300;
   color: #999999;
   color: #777777;
+}
+
+form .form-label{
+  font-size: 1.2rem;
 }
 
 .nice-select .list {

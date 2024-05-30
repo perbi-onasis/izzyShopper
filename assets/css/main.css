@@ -201,7 +201,7 @@ li.hr span {
   background-size: cover;
 }
 
-.register-body, .login-body{
+.register-body, .login-body, .otp-body{
   background-color: #F8F9FB;
 }
 
@@ -223,6 +223,10 @@ li.hr span {
   width: 100%;
 }
 
+.otp-main .container .row{
+  height: 100vh;
+}
+
 .otp-form-group{
   display: flex;  
   gap: 12px;
@@ -231,11 +235,12 @@ li.hr span {
 }
 
 .otp-form-group .otp_input_box{
-  width: 6rem;
-  height: 6rem;
+  /* width: 6rem; */
+  /* height: 6rem; */
   text-align: center;
   font-size: 28px;
   font-weight: 700;
+  /* overflow: hidden; */
 }
 
 /* 

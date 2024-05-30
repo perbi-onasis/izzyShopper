@@ -237,25 +237,18 @@ li.hr span {
 .otp-form-group .otp_input_box{
   /* width: 6rem; */
   /* height: 6rem; */
-  text-align: center;
+  /* text-align: center; */
   font-size: 28px;
   font-weight: 700;
   /* overflow: hidden; */
 }
 
-/* 
-<div class="form-group row">
-  <label for="gender">Select your gender</label>
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
 
-<div class="col-6 form-group ">
-  <input type="radio" required="" name="value">
-</div>
-
-<div class="col-6 form-group">
-  <input type="radio" required="" name="value">
-</div>
-</div>
-*/
 
 .radio_container{
   display: flex;

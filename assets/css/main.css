@@ -238,7 +238,7 @@ li.hr span {
   /* width: 6rem; */
   /* height: 6rem; */
   /* text-align: center; */
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 700;
   /* overflow: hidden; */
 }
@@ -262,7 +262,7 @@ input::-webkit-inner-spin-button {
   height: 60px;
   border: 1px solid #ececec;
   border-radius: 10px;
-  font-size: 1.3rem;
+  font-size: 1rem;
   font-weight: 500;
   /* padding: 20px 40%; */
   padding-top: 17px;
@@ -7166,7 +7166,7 @@ h6.post-title {
 }
 
 .logo{
-  width: 25rem;
+  width: 15rem;
 }
 
 .logo a {
